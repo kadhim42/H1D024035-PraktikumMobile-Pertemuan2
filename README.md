@@ -19,7 +19,9 @@ Pada pertemuan ini, praktikum memberikan pemahaman dasar mengenai konsep pengemb
 ## 📝 Tugas Pertemuan 7
 **Tanggal**: Selasa, 3 November 2026
 
-![Tugas Pertemuan 7](./tugas7.jpg)
+![Tugas Pertemuan 7](./tugas71.jpeg)
+![Tugas Pertemuan 7](./tugas72.jpeg)
+![Tugas Pertemuan 7](./tugas73.jpeg)
 
 **Kesimpulan Praktikum:**  
 Pada pertemuan ini, praktik implementasi routing, membuat login page, side menu, dan shared preferences.
