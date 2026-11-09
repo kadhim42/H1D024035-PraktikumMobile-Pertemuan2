@@ -10,7 +10,7 @@
 ## 📝 Tugas Pertemuan 6
 **Tanggal**: Selasa, 27 Oktober 2026
 
-![Tugas Pertemuan 6](/tugas6.jpg)
+![Tugas Pertemuan 6](./tugas6.jpeg)
 
 **Kesimpulan Praktikum:**  
 Pada pertemuan ini, praktikum memberikan pemahaman dasar mengenai konsep pengembangan aplikasi mobile menggunakan flutter.
